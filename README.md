@@ -6,6 +6,11 @@ The dataset used in this Project is available on Kaggle: [Breast Cancer Wisconsi
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image, such as radius, texture, perimeter, area, and smoothness. The target variable is the diagnosis: M (Malignant) or B (Benign).
 
+## Tech Stack used
+Language: Python <br>
+Libraries: Pandas, NumPy, Scikit-Learn <br>
+Visualization: Matplotlib, Seaborn <br>
+
 ## What is the objective of the project?
 The objective is to build a Binary classification model that can accurately predict whether a tumor is Malignant or Benign based on these physical characteristics. This helps in providing a data-driven preliminary diagnosis that can support medical professionals.
 
